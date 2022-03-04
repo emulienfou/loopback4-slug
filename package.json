@@ -35,7 +35,7 @@
     "!*/__tests__"
   ],
   "peerDependencies": {
-    "@loopback/core": "^3.1.0",
+    "@loopback/core": "*",
     "@loopback/repository": "*"
   },
   "dependencies": {
